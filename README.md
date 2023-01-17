@@ -1,2 +1,2 @@
 # 화면확인
-https://heestagram.github.io
+https://heesoooo.github.io/heestagram/
